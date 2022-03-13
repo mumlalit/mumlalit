@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mumlalit
-- 👀 I’m interested in Computer Engineering.
-- 🌱 I’m currently learning Data Science and ML.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @mumlalit
+- 👋 Hi, I’m Lalit Vishwakarma ( @mumlalit )
+- 👀 I'm a Software Engineer
+- 💞️ I’m activelly looking for to collaborate  ...
+- 📫 How to reach me - @mumlalit
 
 <!---
 mumlalit/mumlalit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
